@@ -6,5 +6,5 @@ variable identity {}
 variable key_name {}
 variable private_key {}
 variable num_webs {
-  default = "2"
+  default = "3"
 }
